@@ -31,7 +31,7 @@ Hobbies:{
 <br>  
 <p><h4> 📝 Latest Blog Post: </h4></p>
 
-- [Role-Based Signup System in Flutter](https://medium.com/@emanyaqoob/building-a-role-based-signup-system-in-flutter-6d6fad9620d1)
+
 - [Flutter Navigation and Routing](https://medium.com/@emanyaqoob/certainly-e41bc25617a6)
 - [State Management in flutter](https://medium.com/@emanyaqoob/flutter-state-management-in-flutter-4ab1ff33e343)
 - [Future & Streams in dart](https://medium.com/@emanyaqoob/future-streams-in-dart-7e2bd86ebbfd)
